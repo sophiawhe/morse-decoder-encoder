@@ -1,5 +1,5 @@
 # morse-decoder-encoder
-**Arduino morse code decoder/encoder**
+**Arduino Morse Code Decoder and Encoder**
 
   This program encodes text input to the serial monitor to morse code via a flashing LED. 
   When the side button is pressed, the program switches to decoder mode, and by pressing
