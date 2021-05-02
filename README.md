@@ -12,4 +12,4 @@
   The morse code is represented as a binary tree, stored in a 0-based array, in which the left child of index i is found at index 2i + 1 and the right child of index i is found at 2i + 2.
   
   
-  See more at: https://www.tinkercad.com/things/gPjcbHwequr-binary-tree-morse-code-encoder-decoder/editel
+  See the simulation at: https://www.tinkercad.com/things/gPjcbHwequr-binary-tree-morse-code-encoder-decoder/editel
