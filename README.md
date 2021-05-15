@@ -1,7 +1,7 @@
 # morse-decoder-encoder
 **Arduino Morse Code Decoder and Encoder**
 
-  This program encodes text input to the serial monitor to morse code via a flashing LED. 
+  This program, made for the Arduino Uno, encodes text input to the serial monitor to morse code via a flashing LED. The details of the Arduino set-up are linked below.
   When the side button is pressed, the program switches to decoder mode, and by pressing
   a morse code pattern to a button (connected to a LED which will flash when the button 
   is pressed), the code will be decoded to text printed to the serial monitor.
